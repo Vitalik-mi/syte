@@ -25,7 +25,7 @@
 		if (trim(!empty($_POST['email']))){
 			$body.='<p><strong>Email:</strong> '.$_POST['email'].'</p>';
 		}
-		if (trim(!empty($_POST['name']))){
+		if (trim(!empty($_POST['tron']))){
 			$body.='<p><strong>Адрес TRON:</strong> '.$_POST['tron'].'</p>';
 		}
 
