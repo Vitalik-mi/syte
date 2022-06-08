@@ -11,9 +11,9 @@
 		$mail->IsHTML(true);
 
 		//От кого письмо
-		$mail->setFrom('info@fls.guru', 'Новая заявка');
+		$mail->setFrom('124qwerty304@gmail.com', 'Новая заявка');
 		//Кому отправить
-		$mail->addAddress('code@fls.guru');
+		$mail->addAddress('124qwerty304@gmail.com');
 		//Тема письма
 		$mail->Subject = 'Привет! У тебя новая заявка';
 
