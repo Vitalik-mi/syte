@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"h",
+				"houses.png\tw:1400 h:611"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tr",
+				"translateX()\ttransform"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"contact",
+				"contactform"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"r",
+				"reguest"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"v",
+				"video.png\tw:920 h:673"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"M",
+				"My_travel.html"
+			],
+			[
+				"ur",
+				"url()\tbackground"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"co",
+				"controller\tAngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller\tAngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"con",
+				"$controller\tAngularJS"
+			],
+			[
+				"ng-v",
+				"ng-view\tAngularJS"
+			],
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"mah",
+				"max-width\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"line",
+				"underline\ttext-decoration"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"font-st",
+				"font-stretch\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"transform",
+				"transform-origin\tproperty"
+			],
+			[
+				"sc",
+				"scaleX()\ttransform"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"ml",
+				"margin-left\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ne",
+				"nextImageVar"
+			],
+			[
+				"next",
+				"nextImageVar"
+			],
+			[
+				"anima",
+				"animation-duration\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"flex",
+				"flex\tdisplay"
+			],
+			[
+				"ta",
+				"task5"
+			],
+			[
+				"ea",
+				"ease-in\ttransition-timing-function"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"view.run_command(\"htmlprettify\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/124qw/OneDrive/Рабочий стол/box"
+	],
+	"file_history":
+	[
+		"/C/Users/124qw/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/124qw/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/124qw/Downloads/EEG_Morlet.m",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Bot/bot.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/friend_doctor.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Bot1/bot.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/leson1/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/leson1/css/styles.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/leson1/script/script.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Нова папка/db.php",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lending/css/fonts.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lending/css/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lending/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab5/lab 5/shop/web/templates/web/main.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab5/lab 5/shop/web/static/web/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab5/lab 5/shop/web/templates/web/shop.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab5/lab 5/shop/web/templates/web/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab5/lab 5/shop/shop/settings.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/templates/getuser/getuser.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/templates/getuser/login.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/templates/getuser/register.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/templates/getuser/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/templates/getuser/elements.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/static/css/owl.carousel.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Тоха5/laba4/laba4/apps/getuser/static/css/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4 – копія/shop/docker-compose.yml",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4 – копія/shop/requirements.txt",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4 – копія/shop/Dockerfile",
+		"/C/Users/124qw/Downloads/sequence (2).fasta",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Prog/web/Dockerfile",
+		"/C/Users/124qw/OneDrive/Рабочий стол/project/shop/settings.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/sequence .fasta",
+		"/C/Users/124qw/OneDrive/Рабочий стол/VITAL.fasta",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/users/views.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/web/urls.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/shop/settings.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/web/templates/web/shop.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/web/templates/web/main.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/web/templates/web/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/users/templates/users/registration.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/users/templates/users/login.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/shop/urls.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/web/views.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/manage.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE lab4/shop/db.sqlite3",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/templates/web/main.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/templates/users/login.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/templates/users/registration.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/templates/web/shop.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/views.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/forms.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/shop/settings.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/shop/urls.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/templates/web/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/templates/registration.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/templates/forms.py",
+		"/C/Users/124qw/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/users/templates/registration.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/views.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/models.py",
+		"/C/Users/124qw/OneDrive/Документы/fasta/Q839G9.fasta",
+		"/C/Users/124qw/OneDrive/Документы/fasta/P69946.fasta",
+		"/C/Users/124qw/OneDrive/Документы/fasta/Q81VT3.fasta",
+		"/C/Users/124qw/OneDrive/Документы/fasta/Q8Y421.fasta",
+		"/C/Users/124qw/OneDrive/Документы/fasta/Q1GBM0.fasta",
+		"/C/Users/124qw/Videos/Vitalik.fasta",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/admin.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/static/web/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Кніфе/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/urls.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/static/web/css/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/SITE/shop/web/static/css/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/vr box 2.0/index.html",
+		"/E/pythonProject2/main.py",
+		"/C/Users/124qw/OneDrive/Рабочий стол/vr box 2.0/style_css/main.css",
+		"/C/Users/124qw/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/124qw/OneDrive/Рабочий стол/веб/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/веб/css/main.css",
+		"/C/Users/124qw/Downloads/sequence.fasta",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Нова папка/BLOSUM62.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Нова папка/SmithWaterman.js",
+		"/D/Web/Web lab4/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_school.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_family.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_friends.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_music.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_travel.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_group.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/My_hobby.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Sidorchuk/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Лаби по веб/web/Web lab 3/web/video.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Burtova/main.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Site_Burtova/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab10/css/main.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab9/js/code.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab9/css/main.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/laba9/script.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/laba9/gallery.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/laba9/main.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/laba9/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/laba9/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/laba9/manage.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab9/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab9/main.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab9/code.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Лаби по веб/lab 7/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Лаби по веб/lab 7/css/main.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab8/rx.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab8/main.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab8/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab8/token.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab 7/css/main.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab 7/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab 7/js/code.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab 7/css/fonts.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Лаби по веб/web/lab6/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab6/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab6/galery.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab6/style.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab6/index galery.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/lab6/galery2.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/DOM elevent/01_dom_event.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/DOM elevent/03_events-model.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/DOM elevent/01_dom_element.css",
+		"/C/Users/124qw/OneDrive/Рабочий стол/DOM elevent/index.html",
+		"/C/Users/124qw/OneDrive/Рабочий стол/DOM elevent/01_dom_element.js",
+		"/C/Users/124qw/OneDrive/Рабочий стол/Лаби по веб/web/lab6/index galery.html"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 122.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
